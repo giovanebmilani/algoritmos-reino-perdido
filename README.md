@@ -13,7 +13,3 @@ Trabalho realizado para a cadeira de Algoritmos e Estruturas de Dados II na PUCR
 Este artigo descreve uma alternativa para solucionar o problema proposto na disciplina de Algoritmos e Estrutura de Dados II, que consiste em descobrir quantas casas um Player pode explorar em um determinado cenário de um jogo. A modelagem do problema e o processo da solução é apresentado, juntamente com o pseudocódigo dos algoritmos mais importantes. Além disso, proponho um caminho para dar continuidade ao estudo do problema. Por fim, serão apresentados os resultados obtidos nos seis casos de teste disponibilizados pelo professor.
 
 #### O artigo completo contém 11 páginas e pode ser visto [neste arquivo](/pdf/resolucao.pdf)
-
-<object src="https://github.com/giovanebmilani/algoritmos-reino-perdido/blob/main/pdf/resolucao.pdf" type="application/pdf" title="SamplePdf" width="500" height="720">
-    <a href="https://github.com/giovanebmilani/algoritmos-reino-perdido/blob/main/pdf/resolucao.pdf">shree</a> 
-</object>
